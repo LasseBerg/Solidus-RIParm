@@ -1,0 +1,7 @@
+**/log
+**/install
+**/build
+.*
+!/.gitignore
+!/.git
+
